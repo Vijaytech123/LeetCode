@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vijaytech123/LeetCode/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vijaytech123/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Vijaytech123/LeetCode/tree/master/0890-lemonade-change) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Hash Table
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Vijaytech123/LeetCode/tree/master/0016-3sum-closest) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vijaytech123/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Vijaytech123/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
