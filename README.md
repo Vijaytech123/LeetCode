@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vijaytech123/LeetCode/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vijaytech123/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -88,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Vijaytech123/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Vijaytech123/LeetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
