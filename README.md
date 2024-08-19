@@ -88,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/Vijaytech123/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/Vijaytech123/LeetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
