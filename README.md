@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vijaytech123/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
