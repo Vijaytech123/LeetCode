@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vijaytech123/LeetCode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Vijaytech123/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -133,9 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Vijaytech123/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Vijaytech123/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
