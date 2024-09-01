@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Vijaytech123/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
