@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Vijaytech123/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Vijaytech123/LeetCode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
