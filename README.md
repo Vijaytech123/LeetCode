@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vijaytech123/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vijaytech123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/Vijaytech123/LeetCode/tree/master/0664-strange-printer) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
