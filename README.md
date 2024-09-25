@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Vijaytech123/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vijaytech123/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vijaytech123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/Vijaytech123/LeetCode/tree/master/0664-strange-printer) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Vijaytech123/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
@@ -192,6 +194,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Vijaytech123/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Vijaytech123/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
