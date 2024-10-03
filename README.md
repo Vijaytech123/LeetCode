@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vijaytech123/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vijaytech123/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vijaytech123/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vijaytech123/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vijaytech123/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vijaytech123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Vijaytech123/LeetCode/tree/master/2155-find-missing-observations) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Vijaytech123/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vijaytech123/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vijaytech123/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vijaytech123/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Vijaytech123/LeetCode/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vijaytech123/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Game Theory
 |  |
 | ------- |
