@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vijaytech123/LeetCode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/Vijaytech123/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Vijaytech123/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Vijaytech123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vijaytech123/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Vijaytech123/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vijaytech123/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vijaytech123/LeetCode/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/Vijaytech123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vijaytech123/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vijaytech123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0567-permutation-in-string](https://github.com/Vijaytech123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/Vijaytech123/LeetCode/tree/master/0664-strange-printer) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vijaytech123/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vijaytech123/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Vijaytech123/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Vijaytech123/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
